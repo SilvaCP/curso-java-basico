@@ -1,2 +1,2 @@
-cursojavabasicoloianetraining
-Acompanhamento do curso Java básico
+java_básico;
+Acompanhamento do curso Java básico.
