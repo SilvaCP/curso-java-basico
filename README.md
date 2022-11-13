@@ -1,2 +1,2 @@
-# loiane.training
+cursojavabasicoloianetraining
 Acompanhamento do curso Java básico
