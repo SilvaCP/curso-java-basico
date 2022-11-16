@@ -22,8 +22,6 @@ public class Exer12 {
 		
 		System.out.println("Peso ideal baseado na altura é: " + pesoIdeal);
 		
-		
-		
 		scan.close();
 	}
 
