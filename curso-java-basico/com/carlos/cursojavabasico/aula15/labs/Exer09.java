@@ -38,7 +38,7 @@ public class Exer09 {
 //			System.out.println("A ordem decrescente dos números são: " + num3 +"  "+ num2 +"  "+ num1);
 //		}
 		
-		// Abaixo outra maneira de resolução.
+		// O código abaixo mostra, outra maneira de resolução.
 		
 		if(num1 <= num2 && num1 <= num3 && num2 <= num3) {
 			// num1 é menor  // num3 é maior //A ordem decrescente é: num3 - num2 - num1
