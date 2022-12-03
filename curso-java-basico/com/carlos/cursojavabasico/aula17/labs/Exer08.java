@@ -1,7 +1,7 @@
 /**
  * @author carlos
- * O programa abaixo lê 5 números.
- * E informe a soma e a média dos números.
+ * O programa abaixo lê (5 cinco) números.
+ * E informa a soma e a média dos números.
  * */
 package com.carlos.cursojavabasico.aula17.labs;
 
